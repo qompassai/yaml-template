@@ -1,0 +1,4 @@
+# 00_hello.yaml — toolchain: python3 -c "import yaml" / yamllint
+# One idea per file: the smallest meaningful YAML document.
+hello: "Hello from the Qompass AI YAML template."
+version: 1
