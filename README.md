@@ -5,7 +5,7 @@
 
 > Template for Qompass AI YAML projects.
 
-![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
+<a href="./LICENSE"><img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="License: Apache 2.0"></a>
 
 A Qompass AI template for YAML (language) projects — educational
 content, tooling notes, and starter code in the standard Qompass AI layout.
