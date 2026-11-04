@@ -1,3 +1,5 @@
+> **ARCHIVED (D-831, 2026-11-03):** this template has been folded into [qompassai/yaml](https://github.com/qompassai/yaml/tree/main/template) — new projects start from there. This repo is kept read-only for history.
+
 <!-- qompassai/yaml-template/README.md -->
 <!-- Replace YAML, Template for Qompass AI YAML projects. and yaml when you instantiate this template. -->
 
